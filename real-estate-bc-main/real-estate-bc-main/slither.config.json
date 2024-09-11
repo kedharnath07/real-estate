@@ -1,4 +1,0 @@
-{
-    "detectors_to_exclude": "solc-version,naming-convention,dead-code",
-    "filter_paths": "node_modules/|contracts/mocks/"
-}
